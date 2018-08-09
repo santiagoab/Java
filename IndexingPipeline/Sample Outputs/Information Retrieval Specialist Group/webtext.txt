@@ -1,0 +1,97 @@
+Microsoft BCS/BCS IRSG Karen Spärck Jones Award An Award to Commemorate Karen Spärck Jones
+Recipient of the Karen Spärck Jones award 2017
+Recipient of the Karen Spärck Jones award 2016
+Recipients of the Karen Spärck Jones award 2015
+Recipient of the Karen Spärck Jones award 2014
+Recipient of the 2013 award
+Recipient of the 2012 award
+No award was made in 2011
+Recipient of the 2010 award
+Recipient of the 2009 award
+Previous panel members
+Informer
+Join
+BCS IRSG
+Fernando Diaz
+Jaime Teevan
+Jordan Boyd-Graber
+Emine Yilmaz
+Ryen White
+Eugene Agichtein
+Diane Kelly
+Evgeniy Gabrilovich
+Mirella Lapata
+Information Retrieval Specialist Group
+IRSG Supported Events
+
+
+Informer
+Web Badge
+The British Computer Society Information Retrieval Specialist Group (BCS IRSG) in conjunction with the BCS created an award in 2008 to commemorate the achievements of Karen Spärck Jones.
+The IRSG is grateful to Microsoft Research for their sponsorship of the Karen Spärck-Jones award.
+Sponsered by:
+We are pleased to announce that the Microsoft BCS/BCS IRSG Karen Spärck Jones Award 2017 is to be awarded to: Fernando Diaz Director of Research at Spotify The panel of independent experts in information retrieval (IR) and natural language processing (NLP) was particularly impressed by his great breadth and excellence of research, his raising of important issues, such as ethical issues, and his service to the community. In addition to that, the fact that Fernando has made major contributions in both IR and NLP is in the very spirit of the award. Congratulations and we are looking forward to an inspiring keynote talk at ECIR 2018 in Grenoble!
+In 2016, the award panel had the difficult task to decide between a range of candidates with outstanding research credentials, all of which lead an impressive research programme with a view to advance our understanding of IR and/or NLP through experimentation. In giving the award to Jaime Teevan Affiliate Associate Professor at the University of Washington, Seattle, USA Principal Researcher at Microsoft Research, Redmond, USA the award panel recognises Jaime's technically strong and exceptionally creative contributions to the intersection of information retrieval, user experience and social media. In particular, Jaime has advanced our understanding of information retrieval through her contributions to design, implementation and careful evaluation of new retrieval algorithms and user experiences. Jaime will give a keynote at ECIR 2017.
+In 2015, the award panel was highly impressed both by the quality and diversity of the field of candidates: it faced a hard time narrowing down the nominations to a short list. Even more so, it turned out the panel experienced a genuine difficulty of deciding between the two candidates who best matched the award criterion "To have endeavoured to advance our understanding of IR and/or NLP through experimentation." As a consequence, and unique to 2015, the panel decided to make two full awards. In alphabetical order: Jordan Boyd-Graber Assistant Professor, Computer Science Department University of Colorado, USA The panel recognised Jordan's technically strong and creative work on probabilistic topic models, in particular, how his work has shown that the semantic coherence of these topics can be systematically assessed, how linguistic knowledge such as word senses, syntactic relations and inter-language relationships can be incorporated - and crucially - how user feedback can easily and iteratively be integrated into learned topic models to improve the semantic coherence of the topics. The panel thought that Jordan has shaped our understanding of NLP in new and important ways through experimental machine learning research. Jordan gave a keynote at ECIR 2016 on interactive machine learning for understanding large document collections. Emine Yilmaz Lecturer, Department of Computer Science University College London, UK The panel was impressed by the body of Emine's research on evaluation techniques to better match the realities of modern information systems, in particular her work on missing user judgments, her proposed new metrics that are more robust to missing data and her work on expected browsing utility as a new evaluation metric derived from interaction patterns of real web search sessions. Her recent work focused on devising and evaluating the quality of task based information retrieval systems, retrieval systems that can help the user complete the task that have led them issue a query to a search engine, as opposed to just retrieving a list of documents relevant to the query submitted. The panel recognized that Emine's research has pushed the field of IR forward in these important aspects and that her work has had a high impact on academia and practice. Emine gave a keynote at ECIR 2016 on a task-based perspective to Information Retrieval.
+Ryen White Senior Researcher at Microsoft Research Redmond, USA
+
+Ryen gave a keynote at ECIR 2015 on Mining and Modelling Online Health Search. The slides of his lecture are available here
+Eugene Agichtein Associate Professor Mathematics and Computer Science Department Emory University, Atlanta, USA
+In making the BCS/ BCS IRSG Karen Spärck-Jones Award for 2013, the Panel strongly recognizes that Eugene Agichtein has made several important contributions in search and large scale web text data mining with a focus on user interaction data. Eugene's work has included demonstrating how models of human information interactions can be inferred by leveraging computational techniques on what are large-scale but also noisy behaviour records. His work has been very influential - the depth of which across several areas is impressive.
+Eugene has focused on understanding and modelling user interaction in web search and collaborative question answering. For example, he has shown that click through and other forms of implicit feedback are useful for improving search results ranking when gathered across large numbers of users. This is one area of contribution where his work is seen as particularly influential. Eugene's work includes mouse movements and prediction of responses to advertising, and has reached out to other domains too. Overall, Eugene Agichtein's work is regarded as that of an excellent experimentalist that recognizes the critical linkages between information theory and experiment.
+Eugene gave a keynote speech at ECIR 2014.
+
+Diane Kelly Associate Professor University of North Carolina, NC, USA
+In making the BCS/ BCS IRSG Karen Spärck-Jones Award for 2012, the Panel strongly recognizes that Diane has made important contributions to: the analysis of information seeking behaviors, and to the development of new experimental methods and systems to support information seeking and analysis.
+Diane has made several other important contributions to user modeling using implicit indicators of relevance, the development and analysis of interfaces to elicit richer statements of interest, and new methodologies for designing and evaluating interactive retrieval systems. Her strong user-oriented work views users-as-people with cognitive tasks.
+Diane gave a keynote speech at ECIR 2013. The slides of her talk are available for download
+
+Evgeniy Gabrilovich Senior Research Scientist and Manager of the NLP & IR Group of Yahoo! Research, California, U.S. Evgeniy gave a keynote speech at ECIR 2011. The abstract of his talk and his bio is available.
+The first recipient of the KSJ award is Mirella Lapata Reader (Assoc Prof) School of Informatics University of Edinburgh Mirella's research has focused on various problems in NLP mostly with an emphasis on statistical methods and text generation applications. She has worked on complex problems like: word sense disambiguation, ambiguity resolution, semantic vector space, story generation, and many others.
+The abstract of her talk at ECIR 2009 and her bio is available for download.
+List of previous panel members in alphabetical order:
+
+Copyright BCS 2009 Legal and Privacy Notices BCS is a registered charity: No 292786
+HOME
+COMMITTEE
+JOIN
+ABOUT
+CONTACT
+BCS
+Membership
+Informer
+ECIR
+KSJ Award
+Search Industry Awards
+Search Solutions
+AGM
+Committee Meetings
+Groups
+Resources
+
+
+
+Read about IRSG activity in the latest Edition of Informer.
+How to apply If you are intrested in becoming a IT professional.
+Join the BCS-IRSG!
+If you are a member of the BCS IRSG show your affiliation by displaying our Web Badge on your page. Click here for code.
+Nicholas Belkin, Rutgers University
+Pia Borlund, University of Copenhagen
+Ann Copestake, University of Cambridge
+Susan Dumais, Microsoft Research
+Rob Gaizauskas, Sheffield University
+Ayse Goker, Robert Gordon University (chair 2009-2013)
+Katja Hofmann, Microsoft Research Cambridge
+Joemon Jose, University of Glasgow
+Udo Kruschwitz, University of Essex (chair 2017)
+Rada Mihalcea, University of Michigan
+Marie-Francine Moens, Katholieke Universiteit Leuven
+Doug Oard, University of Maryland
+Carol Peters, CNR Pisa
+Stephen Robertson, City University and University College London
+Stefan Rueger, The Open University, UK (chair 2014-2016)
+Tomek Strzalkowski, SUNY Albany
+Bonnie Webber, University of Edinburgh
+Marti Hearst, University of California, Berkeley
+Mark Sanderson, RMIT
+Milad Shokouhi, Microsoft Research
