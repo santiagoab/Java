@@ -1,0 +1,1 @@
+java -jar Assignment1Standalone.jar
